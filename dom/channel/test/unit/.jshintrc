@@ -1,0 +1,34 @@
+{
+  "curly": true,
+  "freeze": true,
+  "globalstrict": true,
+  "indent": 2,
+  "latedef": true,
+  "nonbsp": true,
+  "quotmark": "double",
+  "undef": true,
+  "unused": true,
+  "trailing": true,
+  "maxlen": 78,
+
+  "moz": true,
+
+  "predef": [
+    "add_task",
+    "Components",
+    "Cu",
+    "do_check_eq",
+    "do_check_true",
+    "do_test_finished",
+    "do_throw",
+    "dump",
+    "MockWebSocketListener",
+    "MockWebSocketChannel",
+    "run_next_test",
+    "run_test",
+    "Services",
+    "testURI",
+    "testOrigin"
+  ]
+}
+
