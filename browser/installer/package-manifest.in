@@ -530,6 +530,8 @@
 @BINPATH@/components/Push.js
 @BINPATH@/components/Push.manifest
 @BINPATH@/components/PushServiceLauncher.js
+@BINPATH@/components/Channel.manifest
+@BINPATH@/components/ChannelLauncher.js
 
 @BINPATH@/components/SlowScriptDebug.manifest
 @BINPATH@/components/SlowScriptDebug.js

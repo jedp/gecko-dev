@@ -539,6 +539,8 @@
 @BINPATH@/components/Push.js
 @BINPATH@/components/Push.manifest
 @BINPATH@/components/PushServiceLauncher.js
+@BINPATH@/components/Channel.manifest
+@BINPATH@/components/ChannelLauncher.js
 
 @BINPATH@/components/InterAppComm.manifest
 @BINPATH@/components/InterAppCommService.js

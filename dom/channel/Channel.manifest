@@ -1,0 +1,3 @@
+component {8b14fef2-d8df-416f-8a88-60c7f7f37c83} ChannelLauncher.js
+contract @mozilla.org/channel/ServiceLauncher;1 {8b14fef2-d8df-416f-8a88-60c7f7f37c83}
+category app-startup ChannelServiceLauncher @mozilla.org/channel/ServiceLauncher;1
